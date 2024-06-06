@@ -1,0 +1,17 @@
+C:\school\Level4\Calculator\Calculator_app\Calculator_app\bin\Debug\net8.0-windows\Calculator_app.exe
+C:\school\Level4\Calculator\Calculator_app\Calculator_app\bin\Debug\net8.0-windows\Calculator_app.deps.json
+C:\school\Level4\Calculator\Calculator_app\Calculator_app\bin\Debug\net8.0-windows\Calculator_app.runtimeconfig.json
+C:\school\Level4\Calculator\Calculator_app\Calculator_app\bin\Debug\net8.0-windows\Calculator_app.dll
+C:\school\Level4\Calculator\Calculator_app\Calculator_app\bin\Debug\net8.0-windows\Calculator_app.pdb
+C:\school\Level4\Calculator\Calculator_app\Calculator_app\obj\Debug\net8.0-windows\Calculator_app.csproj.GenerateResource.cache
+C:\school\Level4\Calculator\Calculator_app\Calculator_app\obj\Debug\net8.0-windows\Calculator_app.GeneratedMSBuildEditorConfig.editorconfig
+C:\school\Level4\Calculator\Calculator_app\Calculator_app\obj\Debug\net8.0-windows\Calculator_app.AssemblyInfoInputs.cache
+C:\school\Level4\Calculator\Calculator_app\Calculator_app\obj\Debug\net8.0-windows\Calculator_app.AssemblyInfo.cs
+C:\school\Level4\Calculator\Calculator_app\Calculator_app\obj\Debug\net8.0-windows\Calculator_app.csproj.CoreCompileInputs.cache
+C:\school\Level4\Calculator\Calculator_app\Calculator_app\obj\Debug\net8.0-windows\Calculator_app.sourcelink.json
+C:\school\Level4\Calculator\Calculator_app\Calculator_app\obj\Debug\net8.0-windows\Calculator_app.dll
+C:\school\Level4\Calculator\Calculator_app\Calculator_app\obj\Debug\net8.0-windows\refint\Calculator_app.dll
+C:\school\Level4\Calculator\Calculator_app\Calculator_app\obj\Debug\net8.0-windows\Calculator_app.pdb
+C:\school\Level4\Calculator\Calculator_app\Calculator_app\obj\Debug\net8.0-windows\Calculator_app.genruntimeconfig.cache
+C:\school\Level4\Calculator\Calculator_app\Calculator_app\obj\Debug\net8.0-windows\ref\Calculator_app.dll
+C:\school\Level4\Calculator\Calculator_app\Calculator_app\obj\Debug\net8.0-windows\Calculator_app.Calculator.resources
